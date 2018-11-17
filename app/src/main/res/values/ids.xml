@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="cv_match" type="id">cv_match</item>
+    <item name="tv_match_date" type="id">tv_match_date</item>
+    <item name="tv_home_name" type="id">tv_home_name</item>
+    <item name="tv_score_match" type="id">tv_score_match</item>
+    <item name="tv_away_name" type="id" >tv_away_name</item>
+    <item name="ui_listmatch" type="id">listmatch</item>
+    <item name="ui_swipeRefresh" type="id">swipeRefresh</item>
+    <item name="tv_item_club_name" type="id">tv_item_club_name</item>
+    <item name="iv_item_club_badge" type="id">iv_item_club_badge</item>
+    <item name="cv_club_item" type="id">cv_club_item</item>
+    <item name="sp_league" type="id">sp_league</item>
+    <item name="frame_search" type="id">frame_search</item>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Football Club</string>
+    <string name="goaler_">Goaler</string>
+    <string name="goalkeeper_">Keeper</string>
+    <string name="defense_">Defense</string>
+    <string name="midfield_">Midfield</string>
+    <string name="forward_">Forward</string>
+    <string name="substitutes_">Subtitutes</string>
+    <string name="shots_">Shot</string>
+    <string name="home_badge_">Home Icon</string>
+    <string name="vs_">VS</string>
+    <string name="away_badge_">Away icon</string>
+    <string name="nav_nextmatch">Next</string>
+    <string name="nav_prevmatch">Previous</string>
+    <string name="nav_favmatch">Favorite</string>
+    <string name="label_menu_search">Search</string>
+    <string name="nav_team">Teams</string>
+    <string name="nav_match">Matchs</string>
+    <string name="label_tab_nextMatch">Next</string>
+    <string name="label_tab_prefMatch">Previous</string>
+    <string name="label_tab_team_overview">Overview</string>
+    <string name="label_tab_team_players">Players</string>
+    <string name="label_tab_match">Match</string>
+    <string name="label_tab_team">Team</string>
+    <array name="type_schedule">
+        <item>Next</item>
+        <item>Previous</item>
+    </array>
+
+</resources>

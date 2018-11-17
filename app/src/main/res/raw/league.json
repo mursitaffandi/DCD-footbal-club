@@ -1,0 +1,164 @@
+{
+  "leagues": [
+    {
+      "idLeague": "4328",
+      "strLeague": "English Premier League"
+    },
+    {
+      "idLeague": "4329",
+      "strLeague": "English League Championship"
+    },
+    {
+      "idLeague": "4330",
+      "strLeague": "Scottish Premier League"
+    },
+    {
+      "idLeague": "4331",
+      "strLeague": "German Bundesliga"
+    },
+    {
+      "idLeague": "4332",
+      "strLeague": "Italian Serie A"
+    },
+    {
+      "idLeague": "4334",
+      "strLeague": "French Ligue 1"
+    },
+    {
+      "idLeague": "4335",
+      "strLeague": "Spanish La Liga"
+    },
+    {
+      "idLeague": "4336",
+      "strLeague": "Greek Superleague Greece"
+    },
+    {
+      "idLeague": "4337",
+      "strLeague": "Dutch Eredivisie"
+    },
+    {
+      "idLeague": "4338",
+      "strLeague": "Belgian Jupiler League"
+    },
+    {
+      "idLeague": "4339",
+      "strLeague": "Turkish Super Lig"
+    },
+    {
+      "idLeague": "4340",
+      "strLeague": "Danish Superliga"
+    },
+    {
+      "idLeague": "4344",
+      "strLeague": "Portuguese Primeira Liga"
+    },
+    {
+      "idLeague": "4346",
+      "strLeague": "American Major League Soccer"
+    },
+    {
+      "idLeague": "4347",
+      "strLeague": "Swedish Allsvenskan"
+    },
+    {
+      "idLeague": "4350",
+      "strLeague": "Mexican Primera League"
+    },
+    {
+      "idLeague": "4351",
+      "strLeague": "Brazilian Brasileirao"
+    },
+    {
+      "idLeague": "4354",
+      "strLeague": "Ukrainian Premier League"
+    },
+    {
+      "idLeague": "4355",
+      "strLeague": "Russian Football Premier League"
+    },
+    {
+      "idLeague": "4356",
+      "strLeague": "Australian A-League"
+    },
+    {
+      "idLeague": "4358",
+      "strLeague": "Eliteserien"
+    },
+    {
+      "idLeague": "4359",
+      "strLeague": "Chinese Super League"
+    },
+    {
+      "idLeague": "4367",
+      "strLeague": "_No League"
+    },
+    {
+      "idLeague": "4394",
+      "strLeague": "Italian Serie B"
+    },
+    {
+      "idLeague": "4395",
+      "strLeague": "Scottish Championship"
+    },
+    {
+      "idLeague": "4396",
+      "strLeague": "English League 1"
+    },
+    {
+      "idLeague": "4397",
+      "strLeague": "English League 2"
+    },
+    {
+      "idLeague": "4398",
+      "strLeague": "Italian Lega Pro"
+    },
+    {
+      "idLeague": "4399",
+      "strLeague": "German 2. Bundesliga"
+    },
+    {
+      "idLeague": "4400",
+      "strLeague": "Spanish Adelante"
+    },
+    {
+      "idLeague": "4401",
+      "strLeague": "French Ligue 2"
+    },
+    {
+      "idLeague": "4403",
+      "strLeague": "Swedish Superettan"
+    },
+    {
+      "idLeague": "4404",
+      "strLeague": "Brazilian Brasileirao Serie B"
+    },
+    {
+      "idLeague": "4406",
+      "strLeague": "Argentinian Primera Division"
+    },
+    {
+      "idLeague": "4422",
+      "strLeague": "Polish Ekstraklasa"
+    },
+    {
+      "idLeague": "4429",
+      "strLeague": "FIFA World Cup"
+    },
+    {
+      "idLeague": "4432",
+      "strLeague": "Uruguayan Primera Division"
+    },
+    {
+      "idLeague": "4435",
+      "strLeague": "American NASL"
+    },
+    {
+      "idLeague": "4457",
+      "strLeague": "Norwegian 1. Divisjon"
+    },
+    {
+      "idLeague": "4472",
+      "strLeague": "Welsh Premier League"
+    }
+  ]
+}
